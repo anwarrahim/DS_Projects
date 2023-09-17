@@ -6,6 +6,10 @@ def chatbot():
 
 
 
+#call the chatbot function
+chatbot()
+
+
 
     
 
