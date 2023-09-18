@@ -15,12 +15,9 @@ def chatbot():
 def date_prob():
     print('what is your desire date?')
     date = input('Here is my desire date: (YYYY-MM-DD)')
-    if :
-        date_obj = datetime.strptime(date,"%Y-%M-%D")
-        print('You entered',date_obj.strptime("%Y-%M-%D"))
 
-    else:
-        print('You Entered wrong values')
+
+
 
 
 
